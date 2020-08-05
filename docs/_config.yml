@@ -25,7 +25,7 @@ github_username:  capn-sensible
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: midnight
 plugins:
   - jekyll-feed
 
