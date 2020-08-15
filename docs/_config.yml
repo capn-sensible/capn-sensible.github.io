@@ -25,9 +25,13 @@ github_username:  capn-sensible
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
+#remote_theme: "mmistakes/minimal-mistakes@4.20.1"
+#theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+#  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -40,3 +44,29 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# so-simple
+# https://github.com/mmistakes/so-simple-theme
+locale: en-GB
+#skin: "/assets/css/skins/dark.css"
+#logo: "/path/to/masthead.png"
+read_time: true
+words_per_minute: 200
+paginate: 10  # amount of posts to show per page
+paginate_path: /page:num/
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
+author:
+  name: Alex Francis
+  twitter: alexfrancis
+  #picture: /path/picture.png
+  links:
+    - title: Twitter
+      url: https://twitter.com/alexfrancis
+      icon: fab fa-twitter-square
+    - title: Instagram
+      url: https://instagram.com/capn_sensible
+      icon: fab fa-instagram
+    - title: GitHub
+      url: https://github.com/capn-sensible
+      icon: fab fa-github-square

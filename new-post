@@ -16,10 +16,12 @@ fi
 (
 cat <<POST
 ---
-layout: post
-title:  "$title"
-date:   $timestamp
-categories: 
+layout:    post
+title:     "$title"
+date:      $timestamp
+published: false
+category:  
+tags:      
 ---
 ...
 POST

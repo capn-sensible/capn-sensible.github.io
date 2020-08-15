@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Open Water Swimming at Vobster, lesson 2"
-date:   2019-09-21 17:54:54 +0100
-categories: exercise gratitude inspiration
+layout:   post
+title:    "Open Water Swimming at Vobster, lesson 2"
+date:     2019-09-21 17:54:54 +0100
+category: experiences
+tags:     exercise gratitude inspiration
 ---
 ![me chilling out after a swim at Vobster](https://lh3.googleusercontent.com/pw/ACtC-3fEQRH1MsrOhsivCPnDV_e59_8SX4gzt2nhfZR9K4Y3t_y5ZJ3uNv940PlXcUmiP-Z9hRm1vsfKEOBPB-uP8LW1r129TSOrHonIhQ1nDVgFvUCCYMtJ9bxKHu8QDAziNqP2uvlcLU0IVpAXrdnNKgE5yQ=w704-h939-no)
 
