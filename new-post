@@ -1,0 +1,26 @@
+#!/bin/bash
+
+title="$1"
+slug=`echo "$title" | perl -pe '$_ = join "-", map lc, split'`
+
+today=`date -I`
+timestamp=`date +"%Y-%m-%d %H:%M:%S %z"`
+post_file="$today-$slug"
+post_path=docs/_posts/$post_file
+
+if test -e "$post_path"; then
+    echo "Post file already exists: $post_path"
+    exit 1
+fi
+
+(
+cat <<POST
+---
+layout: post
+title:  "$title"
+date:   $timestamp
+categories: 
+---
+...
+POST
+) > $post_path
