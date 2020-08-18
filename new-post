@@ -1,11 +1,12 @@
 #!/bin/bash
+# ./new-post "This is the Title"
 
 title="$1"
 slug=`echo "$title" | perl -pe '$_ = join "-", map lc, split'`
 
 today=`date -I`
 timestamp=`date +"%Y-%m-%d %H:%M:%S %z"`
-post_file="$today-$slug"
+post_file="$today-$slug.md"
 post_path=docs/_posts/$post_file
 
 if test -e "$post_path"; then
