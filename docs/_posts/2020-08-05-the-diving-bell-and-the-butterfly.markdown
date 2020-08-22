@@ -8,7 +8,7 @@ tags:      inspiration
 ---
 [![the diving Bell and the Butterfly](https://i.pinimg.com/originals/57/e2/c3/57e2c395b6b82d1ae3a76505bf32f0b4.jpg)](https://www.imdb.com/title/tt0401383/)
 
-The other night I watched ["The Diving Bell and the Butterfly"](https://mubi.com/films/the-diving-bell-and-the-butterfly) on [MUBI](https://mubi.com/). The film, based on a book, shares the true-life experience of a man affected by 'locked-in' syndrome as a result of a severe stroke. Although my Motor Neuron Disease symptoms are still a long way from restricting me as much as is depicted, I had a hunch that the film would strike a chord with my own experiences or at least the forewarnings I'm starting to get about how things are going to be.
+The other night I watched [The Diving Bell and the Butterfly (2007)](https://www.imdb.com/title/tt0401383/) [on MUBI](https://mubi.com/films/the-diving-bell-and-the-butterfly). The film, based on a book, shares the true-life experience of a man affected by 'locked-in' syndrome as a result of a severe stroke. Although my Motor Neuron Disease symptoms are still a long way from restricting me as much as is depicted, I had a hunch that the film would strike a chord with my own experiences or at least the forewarnings I'm starting to get about how things are going to be.
 
 My hunch was correct. It's a wonderful film and I found it very moving from beginning to end. I think the director was driven to bring us into the experience of being locked in, to demystify this situation and to challenge our ignorance and perhaps lack of compassion. A supreme effort has been made to understand, accept and communicate what this man is going through.
 
