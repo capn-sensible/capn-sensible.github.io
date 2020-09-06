@@ -1,7 +1,7 @@
 ---
 layout:    post
 title:     "Three Dreams"
-date:      2020-09-06 12:56:13 +0100
+date:      2020-08-18 10:18:45 +0100
 published: true
 category:  journal
 tags:      psyche experience dream
