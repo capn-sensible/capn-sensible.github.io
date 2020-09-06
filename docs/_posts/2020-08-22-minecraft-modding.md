@@ -4,7 +4,7 @@ title:     "Minecraft Modding"
 date:      2020-08-22 20:49:59 +0100
 published: true
 category:  parenting
-tags:      coding programming minecraft frustration gaming parenting
+tags:      coding programming minecraft frustration gaming parenting family
 ---
 Finally one of the kids (J) wanted to learn some coding with me! He's been watching a ton of YouTube videos and decided he would like to be able to make Minecraft mods.
 
