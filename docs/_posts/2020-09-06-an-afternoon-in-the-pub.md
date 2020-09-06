@@ -12,6 +12,8 @@ Going to the pub has not been an option for anyone during lockdown of course, bu
 
 My friends helped me overcome the barriers to managing an afternoon in the pub, and made me feel like it was actually more an adventure for them than a burden. They got me into the back of my WAV, drove it the short distance to where we were going and got me comfortable in the pub.
 
+![Mark, Ed, Jon and I in the pub](https://lh3.googleusercontent.com/pw/ACtC-3d1Uo8xpG7FAALe0r4JmhPfEQn42fXrcHh2NbmTh1n1lAL_w9Ooc3RN_T9CSU83VGRdjvN7R2-70wTFJc1Lm6edu-s9qisGMki76FCM4mrpjhpMa8HKhI8q0BLAWody5j3CYr8vDAD1VA4OOvuQOa2hdw=w960-h720-no?authuser=0)
+
 The one part that was always going to be particularly interesting was going for a wee. The bar I chose, [Palmer Street bottle](https://palmerstbottle.co.uk/), seemed ideal in many respects: small, buzzy without being too busy, lovely staff and really good beer. Also, no step to get in. However, the toilet is up a few stairs. Really quite impossible for me now!
 
 I did have the offer of being carried by 3 slightly inebriated gents to go and use the gents, but I felt that plan was bound to go wrong in some way. So instead we opted for a solution based on a bottle and a blanket! In the middle of the bar... I must admit that at first, self-consciousness got the better of me and I struggled to let go, but with some comedy staring from the 3 mates I soon got over it and all went down without a hitch. The barman was also extremely nice about it (we did ask first!).

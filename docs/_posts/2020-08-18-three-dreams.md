@@ -4,7 +4,7 @@ title:     "Three Dreams"
 date:      2020-08-18 10:18:45 +0100
 published: true
 category:  journal
-tags:      psyche experience dream
+tags:      psyche experience dream swimming
 ---
 I have been remembering dreams more frequently in the last months than ever before. Sometimes they are quite entertaining, for me at least. The following 3 happened over a couple of days.
 
