@@ -1,0 +1,10 @@
+#!/bin/bash
+post_dir="docs/_posts"
+posts=$(find $post_dir -maxdepth 1 -type f -name '*.md' -printf '%f ')
+tags=()
+for p in $posts; do
+    p_file="$post_dir/$p"
+    p_tags=$(grep -m 1 "tags:" $p_file | sed 's/tags:\s*//')
+    tags+=($p_tags)
+done
+echo "${tags[@]}" | tr ' ' '\n' | sort -u

@@ -1,0 +1,10 @@
+#!/bin/bash
+post_dir="docs/_posts"
+posts=$(find $post_dir -maxdepth 1 -type f -name '*.md' -printf '%f ')
+categories=()
+for p in $posts; do
+    p_file="$post_dir/$p"
+    p_categories=$(grep -m 1 "category:" $p_file | sed 's/category:\s*//')
+    categories+=($p_categories)
+done
+echo "${categories[@]}" | tr ' ' '\n' | sort -u
