@@ -1,0 +1,1 @@
+https://github.com/docopt/docopts/blob/v0.6.3-rc2/docopts.sh
