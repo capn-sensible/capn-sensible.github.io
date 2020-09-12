@@ -5,6 +5,7 @@ date:      2020-09-06 15:47:44 +0100
 published: true
 category:  experiences
 tags:      connection gratitude people normality disability mnd
+comments:  true
 ---
 "An afternoon in the pub": there was a time when that phrase would have sounded perfectly ordinary. Yesterday it was the height of luxury. I spent a delightful few hours with some old friends from Bristol, drinking a little bit too much beer and enjoying some great conversation.
 
