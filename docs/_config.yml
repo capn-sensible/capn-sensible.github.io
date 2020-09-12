@@ -70,3 +70,9 @@ author:
     - title: GitHub
       url: https://github.com/capn-sensible
       icon: fab fa-github-square
+comments:
+  provider: "facebook"
+  facebook:
+    appid: 968233660351675 # optional
+    num_posts: 5 # 5 (default)
+    colorscheme: light # "light" (default), "dark"
