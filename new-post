@@ -23,7 +23,6 @@ date:      $timestamp
 published: false
 category:  
 tags:      
-comments:  true
 ---
 ...
 POST
