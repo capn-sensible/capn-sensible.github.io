@@ -8,6 +8,8 @@ tags:      psyche experience dream swimming
 ---
 I have been remembering dreams more frequently in the last months than ever before. Sometimes they are quite entertaining, for me at least. The following 3 happened over a couple of days.
 
+<!--more-->
+
 ### 1: Woman with a tail
 
 I'm out somewhere with my wife. We meet a woman who we vaguely know. She is very tall, with a big frame. She is awkward. She wears heeled shoes and jeans and... has a tail. The tail reaches the ground and is covered by denim as though the jeans were made to fit over it. She is excited about having a tail. She wants us to compliment her on it. I am just embarrassed.

@@ -10,6 +10,8 @@ tags:      inspiration mortality connection illness disability
 
 The other night I watched [The Diving Bell and the Butterfly (2007)](https://www.imdb.com/title/tt0401383/) [on MUBI](https://mubi.com/films/the-diving-bell-and-the-butterfly). The film, based on a book, shares the true-life experience of a man affected by 'locked-in' syndrome as a result of a severe stroke. Although my Motor Neuron Disease symptoms are still a long way from restricting me as much as is depicted, I had a hunch that the film would strike a chord with my own experiences or at least the forewarnings I'm starting to get about how things are going to be.
 
+<!--more-->
+
 My hunch was correct. It's a wonderful film and I found it very moving from beginning to end. I think the director was driven to bring us into the experience of being locked in, to demystify this situation and to challenge our ignorance and perhaps lack of compassion. A supreme effort has been made to understand, accept and communicate what this man is going through.
 
 Reviews of the film mention a daring approach to cinematography where we see the world literally through the eyes of the protagonist, Jean-Do, for most of the first half of the film. Not only do we see what he sees, we also hear what he thinks because although he cannot speak, we hear his thoughts. We experience his restricted view, with only one eye working and unable to move his head. This means, in particular, that we see which people he engages with and how, and in contrast we can tell when he wishes people would just go away. This inside view also allows us to see that the book he is painstakingly writing does not entirely correspond to the version of his life that we see.

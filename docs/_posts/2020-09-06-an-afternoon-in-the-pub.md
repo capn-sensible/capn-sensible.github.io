@@ -8,6 +8,8 @@ tags:      connection gratitude people normality disability mnd
 ---
 "An afternoon in the pub": there was a time when that phrase would have sounded perfectly ordinary. Yesterday it was the height of luxury. I spent a delightful few hours with some old friends from Bristol, drinking a little bit too much beer and enjoying some great conversation.
 
+<!--more-->
+
 Going to the pub has not been an option for anyone during lockdown of course, but for me it had a special significance. With MND, when you stop doing something for a while you start to assume you will never be able to do it again, because unfortunately for anything that is reliant on physical capability, once that capability is gone it does not come back. Without being totally aware of it, you start to imagine barriers even to the most banal activities that most take for granted.
 
 My friends helped me overcome the barriers to managing an afternoon in the pub, and made me feel like it was actually more an adventure for them than a burden. They got me into the back of my WAV, drove it the short distance to where we were going and got me comfortable in the pub.

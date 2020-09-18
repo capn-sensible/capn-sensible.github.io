@@ -56,6 +56,7 @@ paginate: 10  # amount of posts to show per page
 paginate_path: /page:num/
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
+excerpt_separator: <!--more-->
 author:
   name: Alex Francis
   twitter: alexfrancis

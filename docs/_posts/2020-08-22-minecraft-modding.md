@@ -8,6 +8,8 @@ tags:      coding programming minecraft frustration gaming parenting family
 ---
 Finally one of the kids (J) wanted to learn some coding with me! He's been watching a ton of YouTube videos and decided he would like to be able to make Minecraft mods.
 
+<!--more-->
+
 We got cracking with what looked like an up-to-date tutorial. First we tried the latest version of the Minecraft Forge MDK (Mod Development Kit). The tutorial code didn't work. Okay no problem.. we got hold of the older version, that works with Minecraft 1.12.2. Followed the tutorial through and ran the game, our custom item showed up! J found this pretty exciting, even though our item was displayed as a pink and black chequerboard to show that the game didn't know how to draw it.
 
 Next we tried to add a texture file for the item, to make it look like the fancy pickaxe it was supposed to be. J spent a bunch of time creating a very vividly coloured pickaxe image. However, try as we may we could not get it to show up. J was surprisingly patient but I was starting to worry I was going to put him off!
