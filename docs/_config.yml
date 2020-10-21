@@ -25,13 +25,13 @@ github_username: capn-sensible
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
-#remote_theme: "mmistakes/minimal-mistakes@4.20.1"
+# remote_theme: "mmistakes/so-simple-theme@3.2.0"
+remote_theme: "mmistakes/minimal-mistakes@4.20.2"
 #theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
-#  - jekyll-include-cache
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

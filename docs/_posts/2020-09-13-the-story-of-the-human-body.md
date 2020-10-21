@@ -1,5 +1,5 @@
 ---
-layout:    post
+layout:    single
 title:     "The Story of the Human Body: Evolution, Health, and Disease"
 date:      2020-09-13 18:02:26 +0100
 published: false

@@ -1,5 +1,5 @@
 ---
-layout:    post
+layout:    single
 title:     "Minecraft Modding"
 date:      2020-08-22 20:49:59 +0100
 published: true

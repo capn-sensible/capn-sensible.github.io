@@ -1,5 +1,5 @@
 ---
-layout:    post
+layout:    single
 title:     "Why We Sleep"
 date:      2020-09-17 21:58:37 +0100
 published: true

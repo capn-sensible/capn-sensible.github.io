@@ -1,5 +1,5 @@
 ---
-layout:    post
+layout:    single
 title:     "Being Mortal"
 date:      2020-09-13 19:36:50 +0100
 published: true

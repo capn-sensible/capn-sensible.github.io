@@ -1,5 +1,5 @@
 ---
-layout:    post
+layout:    single
 title:     "The Diving Bell and the Butterfly"
 date:      2020-08-05 21:11:00 +0100
 published: true

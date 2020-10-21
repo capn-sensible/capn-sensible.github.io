@@ -1,5 +1,5 @@
 ---
-layout:    post
+layout:    single
 title:     "An afternoon in the pub"
 date:      2020-09-06 15:47:44 +0100
 published: true

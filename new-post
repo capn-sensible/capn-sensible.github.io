@@ -17,7 +17,7 @@ fi
 (
 cat <<POST
 ---
-layout:    post
+layout:    single
 title:     "$title"
 date:      $timestamp
 published: false

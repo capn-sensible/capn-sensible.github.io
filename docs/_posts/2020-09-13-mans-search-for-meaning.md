@@ -1,5 +1,5 @@
 ---
-layout:    post
+layout:    single
 title:     "Man's Search for Meaning"
 date:      2020-09-13 19:25:50 +0100
 published: true

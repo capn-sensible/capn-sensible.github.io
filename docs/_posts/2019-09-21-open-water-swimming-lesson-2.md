@@ -1,5 +1,5 @@
 ---
-layout:    post
+layout:    single
 title:     "Open Water Swimming at Vobster, lesson 2"
 date:      2019-09-21 17:54:54 +0100
 published: true
