@@ -15,5 +15,5 @@
   - [X] post archive page
   - [X] categories page
   - [X] tags page
+  - [X] search
   - [ ] commenting
-  - [ ] search

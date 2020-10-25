@@ -1,15 +1,3 @@
-old:
-  - title: Posts
-    url: /
-  - title: Categories
-    url: /categories/
-  - title: Tags
-    url: /tags/
-  - title: Search
-    url: /search/
-  - title: About
-    url: /about/
-
 main:
   - title: "Posts"
     url: /year-archive/
