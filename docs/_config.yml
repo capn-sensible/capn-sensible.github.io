@@ -31,17 +31,17 @@ logo                     : "" # path of logo image to display in the masthead, e
 masthead_title           : "" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-# comments:
-#   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+comments:
+  provider               : facebook # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
 #   disqus:
 #     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 #   discourse:
 #     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-#   facebook:
-#     # https://developers.facebook.com/docs/plugins/comments
-#     appid                :
-#     num_posts            : # 5 (default)
-#     colorscheme          : # "light" (default), "dark"
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                : ""
+    num_posts            : 5 # 5 (default)
+    colorscheme          : dark # "light" (default), "dark"
 #   utterances:
 #     theme                : # "github-light" (default), "github-dark"
 #     issue_term           : # "pathname" (default)
@@ -65,7 +65,10 @@ search_provider          : lunr # lunr (default), algolia, google
 #   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
 #   instant_search         : # false (default), true
 # SEO Related
-# The understand
+# google_site_verification :
+# bing_site_verification   :
+# yandex_site_verification :
+# naver_site_verification  :
 # Social Sharing
 twitter:
   username               : alexfrancis
@@ -276,7 +279,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: false # true
+      comments: true
       share: true
       related: true
       show_date: true
@@ -288,7 +291,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      comments: false # true
+      comments: false
       share: false
       related: false
       show_date: false
