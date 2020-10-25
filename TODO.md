@@ -1,4 +1,4 @@
-  - [ ] about page
+  - [X] about page
   - [ ] home / post list page
     - [ ] min read
     - [ ] published date
