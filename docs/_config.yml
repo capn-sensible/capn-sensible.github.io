@@ -31,6 +31,8 @@ logo                     : "" # path of logo image to display in the masthead, e
 masthead_title           : "" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+facebook:
+  app_id                 : "968233660351675"
 comments:
   provider               : facebook # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
 #   disqus:
