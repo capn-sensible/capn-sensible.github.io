@@ -1,16 +1,19 @@
   - [X] about page
-  - [ ] home / post list page
-    - [ ] min read
-    - [ ] published date
-    - [ ] blurb
-  - [ ] basic navigation
-  - [ ] post page
-    - [ ] author info, links
-    - [ ] show categories
-    - [ ] show tags
-    - [ ] min read
-    - [ ] published date at top
-    - [ ] comments
+  - [X] homepage
+  - [X] include author profile in pages
+  - [X] basic navigation
+  - [X] author profile blurb
+  - [X] post lists metadata
+    - [X] min read
+    - [X] published date
+  - [X] post page metadata
+    - [X] author info, links
+    - [X] show categories
+    - [X] show tags
+    - [X] min read
+    - [X] published date at top
+  - [ ] post archive page
   - [ ] categories page
   - [ ] tags page
+  - [ ] commenting
   - [ ] search
