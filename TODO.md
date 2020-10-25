@@ -12,8 +12,8 @@
     - [X] show tags
     - [X] min read
     - [X] published date at top
-  - [ ] post archive page
-  - [ ] categories page
-  - [ ] tags page
+  - [X] post archive page
+  - [X] categories page
+  - [X] tags page
   - [ ] commenting
   - [ ] search

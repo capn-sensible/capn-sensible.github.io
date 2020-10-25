@@ -22,7 +22,7 @@ subtitle                 : "Life-blog of Alex Francis"
 name                     : "Alex Francis"
 description              : >-
   Urgent explorer of the meaning of life and identity. Father.
-  Husband. Ex runner. Conspirer in crazy plans. Co-founder of DEKA ("Where are you going?").
+  Husband. Ex runner living with ALS/MND. Conspirer in crazy plans. Co-founder of DEKA ("Where are you going?").
 url                      : https://capn-sensible.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ author:
   # avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :  >-
     Urgent explorer of the meaning of life and identity. Father.
-    Husband. Ex runner. Conspirer in crazy plans. Co-founder of DEKA ("Where are you going?").
+    Husband. Ex runner living with ALS/MND. Conspirer in crazy plans. Co-founder of DEKA ("Where are you going?").
   location         : "Frome, UK"
   email            : alex.francis+web@gmail.com
   links:
