@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -l -P "published:\s*false" docs/_posts/*
