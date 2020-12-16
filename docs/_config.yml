@@ -107,6 +107,9 @@ author:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   # url: "https://your-website.com"
+    - label: "Donate (JustGiving)"
+      icon: "fas fa-fw fa-hand-holding-heart"
+      url: https://www.justgiving.com/fundraising/chilly-swim-2020-alex
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/alexfrancis
