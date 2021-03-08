@@ -107,9 +107,12 @@ author:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   # url: "https://your-website.com"
-    - label: "Donate (JustGiving)"
+    - label: "Donate to MND Association"
       icon: "fas fa-fw fa-hand-holding-heart"
-      url: https://www.justgiving.com/fundraising/chilly-swim-2020-alex
+      url: https://www.justgiving.com/fundraising/alex-vs-als
+    - label: "Help my family"
+      icon: "fas fa-fw fa-hands-helping"
+      url: https://gofund.me/cb354d24
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/alexfrancis
